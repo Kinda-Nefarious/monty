@@ -48,3 +48,5 @@ opcode4.c :
 	* _rotl - Rotates the stack to the top.
 	* _rotr - Rotates the stack to the bottom.
 	* delete_dnodeint_at_index - Insert a node in a index of the list.
+	* _stack - Converts a queue to a stack.
+	* _queue - Converts a stack to a queue.
