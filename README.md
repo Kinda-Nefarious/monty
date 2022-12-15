@@ -5,6 +5,8 @@ check_token.c :
 	* check_token - Check if the token exist.
 	* chkpush - Check push.
 	* cmp - Check if the token is a command.
+	* _stack - Converts a queue to a stack.
+	* _queue - Converts a stack to a queue.
 
 cmp_fun.c :
 
