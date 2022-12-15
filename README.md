@@ -1,4 +1,4 @@
-# monty
+# monty - (C - Stacks, Queues - LIFO, FIFO)
 
 check_token.c :
 
