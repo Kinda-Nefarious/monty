@@ -24,7 +24,7 @@ opcode1.c :
 	* _pall - Print all the elements in the stack.
 	* free_stack - Free the stack.
 	* _pint - Print the value at the top of the stack.
-	* _pop - removes the top element of the stack.
+	* _pop - Removes the top element of the stack.
 
 opcode2.c :
 
