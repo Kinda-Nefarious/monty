@@ -67,6 +67,9 @@ void _rotl(stack_t **stack, unsigned int line_number);
 void add_dnodeint_end(stack_t **head, unsigned int n);
 void _rotr(stack_t **stack, unsigned int line_number);
 void delete_dnodeint_at_index(stack_t **head, unsigned int index);
+void _stack(stack_t **stack, unsigned int line_number);
+void _queue(stack_t **stack, unsigned int line_number);
+
 
 int push_arg;
 
